@@ -1,4 +1,4 @@
-#TI Calculator Basics (Last updated Oct. 2010) 
+# TI Calculator Basics (_Last updated Oct. 2010_) 
 
 
 **Date: October 4, 2010 Grade: 9 – 12  
@@ -24,41 +24,42 @@ _a. Solve using tables, graphs, and algebraic properties._
 _b. Interpret the constants, coefficients, and bases in the context of the problem._
 
 _4.03 Use systems of linear equations or inequalities in two variables to model problems and solve graphically.  
-_
 
-**1\. Topic-**
+---
+
+## 1. Topic
 
 _Advanced Introduction to TI-8x Calculators: Programming in TI-Basic_
 
-**2\. Content-**
+## 2. Content
 
 _TI-Basic, variables, functions, Slope-Intercept linear equation_
 
-**3\. Goals: Aims/Outcomes-**
+## 3. Goals: Aims/Outcomes
 
-_1\. Student creation and execution of an application modeling the Slope-Intercept form of a linear equation._
+_1. Student creation and execution of an application modeling the Slope-Intercept form of a linear equation._
 
-_2\. Student comprehension of the correlation between programmatic variables versus mathematic variables._
+_2. Student comprehension of the correlation between programmatic variables versus mathematic variables._
 
-_3\. Student comprehension of the correlation between programmatic functions versus mathematic functions._
+_3. Student comprehension of the correlation between programmatic functions versus mathematic functions._
 
-_4\. Student increased comprehension of correlation between symbolic versus graphic forms of an equation._
+_4. Student increased comprehension of correlation between symbolic versus graphic forms of an equation._
 
-**4\. Objectives-**
+## 4. Objectives
 
-_1\. Input a value into a variable_
+_1. Input a value into a variable_
 
-_2\. Use inputed variables in a function_
+_2. Use inputed variables in a function_
 
-_3\. Graph a function_
+_3. Graph a function_
 
-_4\. Execute generated program_
+_4. Execute generated program_
 
-**5\. Materials and Aids-**
+## 5. Materials and Aids
 
 _TI-83 plus or TI-84 calculator, projector with TI connection or TI SmartView_
 
-**6\. Procedures/Methods-**
+## 6\. Procedures/Methods
 
 _A. Introduction-_
 
@@ -98,7 +99,7 @@ _F. Checking for understanding-_
 
 3.Student comprehension of the correlation between programmatic functions versus mathematic functions through oral identification.
 
-4\. Student increased comprehension of correlation between symbolic versus graphic forms of an equation through oral identification.
+4\. Student increased comprehension of the correlation between symbolic versus graphic forms of an equation through oral identification.
 
 _G. Closure-_
 
@@ -108,7 +109,7 @@ _G. Closure-_
 
 3\. If time remaining perform program transfer of "YinYang" program through TI-Link with references given to TI-Calc site.
 
-**7\. Evaluation-**
+## 7. Evaluation
 
 _1\. Functional program which inputs user variables and then outputs a graph = Satisfactory_
 
@@ -116,4 +117,4 @@ _2\. Functional program with incorrect output = Needs Improvement_
 
 _3\. Not functional program = Unsatisfactory_
 
-**8\. Teacher Reflection-**
+## 8. Teacher Reflection
