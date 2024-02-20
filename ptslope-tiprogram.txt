@@ -1,0 +1,13 @@
+Func
+Degree
+FnOff 
+ClrDraw
+PlotsOff 
+AxesOn 
+G—T
+Disp "Y=MX+B"
+Input "M=?",M
+Input "B=?",B
+"M*X+B"→Y₁
+DispGraph
+Pause 
